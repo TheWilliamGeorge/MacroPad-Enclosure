@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv4ycgkp0gcu01n0ko29xq7v). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> This week, I would like to design two 3D printed enclosures. I will prioritise making an enclosure for the PCB MacroPad I designed last week, and if budget allows, I'll also make an enclosure for a screen-based project in week 3!
+> This week, I would like to design a 3D printed enclosure for the PCB MacroPad I designed last week.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
