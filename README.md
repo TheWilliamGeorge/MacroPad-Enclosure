@@ -1,6 +1,9 @@
 # MacroPad Enclosure
 
 - BOM: [BOM.csv](BOM.csv)
+- Journal: [JOURNAL.md](JOURNAL.md)
+- Box Design (.step): [Box Resized.step](Box Resized.step)
+- Lid Design (.step): [Lid.step](Lid.step)
 
 ## What it is
 This is a 3D modelled enclosure for the MacroPad PCB project I designed in week 1. My MacroPad will be used to provide common shortcuts for apps I use, especially creative ones like music creation or video editing software. 
