@@ -2,9 +2,9 @@
 
 - BOM: [BOM.csv](BOM.csv)
 - Journal: [JOURNAL.md](JOURNAL.md)
-- Box Design (.step): [Box Resized.step](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Box%20Resized.step)
+- Box Design (.step): [Box Resized v2.step](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Box%20Resized%20v2.step)
 - Lid Design (.step): [Lid.step](Lid.step)
-- Box Design (.stl): [Box Resized.stl](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Box%20Resized.stl)
+- Box Design (.stl): [Box Resized v2.stl](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Box%20Resized%20v2.stl)
 - Lid Design (.stl): [Lid.stl](Lid.stl)
 
 ## What it is
