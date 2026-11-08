@@ -7,6 +7,8 @@
 - Box Design (.stl): [Box Resized v2.stl](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Box%20Resized%20v2.stl)
 - Lid Design (.stl): [Lid.stl](Lid.stl)
 
+*ONCE I'VE BUILT IT, AN IMAGE WILL GO HERE*
+
 ## What it is
 This is a 3D modelled enclosure for the MacroPad PCB project I designed in week 1. My MacroPad will be used to provide common shortcuts for apps I use, especially creative ones like music creation or video editing software. 
 
