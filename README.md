@@ -11,6 +11,9 @@
 
 *ONCE I'VE BUILT IT, AN IMAGE WILL GO HERE*
 
+## Note to print legion printer:
+The dimensions of this should be 118.12mm wide by 96.79mm deep.
+
 ## What it is
 This is a 3D modelled enclosure for the MacroPad PCB project I designed in week 1. My MacroPad will be used to provide common shortcuts for apps I use, especially creative ones like music creation or video editing software. 
 
