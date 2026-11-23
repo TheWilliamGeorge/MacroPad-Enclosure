@@ -6,6 +6,8 @@
 - Lid Design (.step): [Lid.step](Lid.step)
 - Box Design (.stl): [Box Resized v2.stl](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Box%20Resized%20v2.stl)
 - Lid Design (.stl): [Lid.stl](Lid.stl)
+- Full assembly source: [Onshape](https://cad.onshape.com/documents/82c3f82b3f748bd9de7beaef/w/d09178f850a2b4011813c08c/e/f72ab9a2baf966951836c4fb?renderMode=0&uiState=6b0407ff94f3789bc1acdfd4)
+- Full assembly step: [Macro Pad Final Assembly.step](https://github.com/TheWilliamGeorge/MacroPad-Enclosure/blob/main/Macro%20Pad%20Enclosure%20Final%20Assembly.step)
 
 *ONCE I'VE BUILT IT, AN IMAGE WILL GO HERE*
 
